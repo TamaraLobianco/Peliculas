@@ -1,0 +1,25 @@
+html {color:white;
+    background-color: black;
+    font-family: 'PT Sans Narrow', sans-serif;}
+.parrafos{margin:0px 10px;
+padding: 0px 0px;
+float: left;}
+a{margin:16px 10px;
+    padding: 0px 0px;
+    float: left;}
+.boton {margin:16px;
+    padding: 0px;
+    float: right;}
+#buscador {float:right;
+    margin:16px;
+    padding: 0px;}
+a.active {color:grey;}
+.section{ background-color: rgb(65, 65, 65);
+color:white}
+.cartas {background-color: rgb(65, 9, 9);}
+.cuerpo {background-color: black;
+color: white;}
+.titulo {text-align: center;}
+.contactame{ padding:8px 16px;}
+
+
